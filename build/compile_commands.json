@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/jbaker1/_jake/c_project_template/build",
+  "command": "/usr/bin/cc  -I/Users/jbaker1/_jake/c_project_template/include -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/Cellar/sdl2_image/2.8.8/include/SDL2 -isystem /opt/homebrew/Cellar/sdl2_ttf/2.24.0/include/SDL2 -isystem /opt/homebrew/Cellar/sdl2_mixer/2.8.1_1/include/SDL2 -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -Werror -Wunused -Wshadow -Wconversion -Wsign-conversion -o CMakeFiles/app.dir/src/main.c.o -c /Users/jbaker1/_jake/c_project_template/src/main.c",
+  "file": "/Users/jbaker1/_jake/c_project_template/src/main.c",
+  "output": "CMakeFiles/app.dir/src/main.c.o"
+},
+{
+  "directory": "/Users/jbaker1/_jake/c_project_template/build",
+  "command": "/usr/bin/cc  -I/Users/jbaker1/_jake/c_project_template/include -isystem /opt/homebrew/Cellar/sdl2/2.32.10/include/SDL2 -isystem /opt/homebrew/Cellar/sdl2_image/2.8.8/include/SDL2 -isystem /opt/homebrew/Cellar/sdl2_ttf/2.24.0/include/SDL2 -isystem /opt/homebrew/Cellar/sdl2_mixer/2.8.1_1/include/SDL2 -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -Werror -Wunused -Wshadow -Wconversion -Wsign-conversion -o CMakeFiles/app.dir/src/util.c.o -c /Users/jbaker1/_jake/c_project_template/src/util.c",
+  "file": "/Users/jbaker1/_jake/c_project_template/src/util.c",
+  "output": "CMakeFiles/app.dir/src/util.c.o"
+}
+]
