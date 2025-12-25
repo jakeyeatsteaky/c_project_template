@@ -1,3 +1,0 @@
-/Users/jbaker1/_jake/c_project_template/build/CMakeFiles/app.dir
-/Users/jbaker1/_jake/c_project_template/build/CMakeFiles/edit_cache.dir
-/Users/jbaker1/_jake/c_project_template/build/CMakeFiles/rebuild_cache.dir
