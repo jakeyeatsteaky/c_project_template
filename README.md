@@ -2,5 +2,8 @@
 Template for C applications 
 
 ```bash
-conan install . --remote=conancenter
+mkdir build
+cd build
+cmake ..
+make
 ```
